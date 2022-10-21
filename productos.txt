@@ -1,0 +1,1 @@
+[{"title":"Collar","price":32500,"thumbnail":"https://acortar.link/7hbS7X","id":2},{"title":"Anillo","price":20900,"thumbnail":"https://acortar.link/QoROsP","id":3}],{"title":"Anillo","price":20900,"thumbnail":"https://acortar.link/QoROsP","id":3}]
