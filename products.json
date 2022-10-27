@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Jagermeister",
+        "price": 100
+    },
+    {
+        "id": 2,
+        "name": "Bombay Sapphire",
+        "price": 200
+    },
+    {
+        "id": 3,
+        "name": "Absolut",
+        "price": 300
+    },
+    {
+        "id": 4,
+        "name": "Monkey 47",
+        "price": 400
+    }
+]
